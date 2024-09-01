@@ -1,0 +1,14 @@
+.avatar {
+  max-height: 150px;
+  max-width: 150px;
+}
+.name {
+  font-size: 40px;
+  font-weight: 500;
+}
+.isOnline {
+  color: green;
+}
+.isOffline {
+  color: red;
+}
